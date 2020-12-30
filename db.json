@@ -1,0 +1,19 @@
+{
+    "posts": [
+      { "id": 1, "title": "khám mắt", "author": "chuyên mắt", "diadiem":"hai duong","thoigian":"5h-7h","chuthich":"không khám ngoài giừo","comment":"13256789" },
+      { "id": 1, "title": "khám mắt", "author": "chuyên mắt", "diadiem":"hai duong","thoigian":"5h-7h","chuthich":"không khám ngoài giừo","comment":"13256789" },
+      { "id": 1, "title": "khám mắt", "author": "chuyên mắt", "diadiem":"hai duong","thoigian":"5h-7h","chuthich":"không khám ngoài giừo","comment":"13256789" },
+      { "id": 1, "title": "khám mắt", "author": "chuyên mắt", "diadiem":"hai duong","thoigian":"5h-7h","chuthich":"không khám ngoài giừo","comment":"13256789" },
+      { "id": 1, "title": "khám mắt", "author": "chuyên mắt", "diadiem":"hai duong","thoigian":"5h-7h","chuthich":"không khám ngoài giừo","comment":"13256789" }
+
+    ],
+    
+    "comments": [
+      { "id": 1, "title": "json-server", "author": "typicode", "diadiem":"hai duong","thoigian":"5h-7h","chuthich":"hhsgdf sbdfv gsdf sgdf shgsdfgs hgsddfg hgssd","comment":"gs gsdv gsdv gsd ueuiw yweg jhgdf" },
+      { "id": 2, "title": "json-server", "author": "typicode", "diadiem":"hai duong","thoigian":"5h-7h","chuthich":"hhsgdf sbdfv gsdf sgdf shgsdfgs hgsddfg hgssd","comment":"gs gsdv gsdv gsd ueuiw yweg jhgdf" },
+      { "id": 3, "title": "json-server", "author": "typicode", "diadiem":"hai duong","thoigian":"5h-7h","chuthich":"hhsgdf sbdfv gsdf sgdf shgsdfgs hgsddfg hgssd","comment":"gs gsdv gsdv gsd ueuiw yweg jhgdf" },
+      { "id": 4, "title": "json-server", "author": "typicode", "diadiem":"hai duong","thoigian":"5h-7h","chuthich":"hhsgdf sbdfv gsdf sgdf shgsdfgs hgsddfg hgssd","comment":"gs gsdv gsdv gsd ueuiw yweg jhgdf" },
+      { "id": 5, "title": "json-server", "author": "typicode", "diadiem":"hai duong","thoigian":"5h-7h","chuthich":"hhsgdf sbdfv gsdf sgdf shgsdfgs hgsddfg hgssd","comment":"gs gsdv gsdv gsd ueuiw yweg jhgdf" }
+    ],
+    "profile": { "name": "typicode" }
+}
