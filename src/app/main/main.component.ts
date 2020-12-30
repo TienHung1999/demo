@@ -2,12 +2,16 @@ import { Component, OnInit } from '@angular/core';
 import { from } from 'rxjs';
 import {AuthenticationService} from 'src/app/_services/authentication.service';
 import { UserService } from '../_services';
+
+
+
 @Component({
   selector: 'app-main',
   templateUrl: './main.component.html',
   styleUrls: ['./main.component.scss']
 })
 export class MainComponent implements OnInit {
+  
   isShow = false;
   productData: any;
   pro: any;
